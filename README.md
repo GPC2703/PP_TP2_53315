@@ -4,7 +4,6 @@
 
 ## En este repositorio esta:
 - Captura de salida por consola de la ejecucion de un ejercicio
-- Mapa de memoria que solicita el ejercicio 4
 - Proyecto de codigo desarrollado hasta el ejercicio 4, generado por Intellij IDEA.
 
 
@@ -15,6 +14,6 @@
 
 ## Como clonar e importar en Intellij IDEA
 1. Clonar el repositorio: 
-HTTPS: `git clone https://github.com/GPC2703/PP_TP1_53315.git`
+HTTPS: `git clone https://github.com/GPC2703/PP_TP2_53315.git`
 2. Abrir IntelliJ IDEA
 3. Esperar a que IntelliJ importe el proyecto y descargue todas las dependencias que necesita.
