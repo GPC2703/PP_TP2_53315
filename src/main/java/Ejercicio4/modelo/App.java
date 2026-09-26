@@ -89,7 +89,6 @@ public class App {
         }
 
         //h
-
         for (EventoUniversitario event : listaEventos) {
             event.mostrarDatos();
         }
